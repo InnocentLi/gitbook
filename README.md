@@ -1,2 +1,2 @@
-# Initial page
+# JavaScript基本类型
 
